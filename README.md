@@ -128,6 +128,4 @@ Kiosko-TP-FINAL/
 └── README.md
 ```
 
-## Capturas de pantalla
 
-_Pendiente: agregar capturas de cada página (Productos, Categorías, Proveedores, Empleados, Compras, Ventas, Ajustes) con datos cargados, antes de la entrega._
